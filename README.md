@@ -41,7 +41,7 @@ A collaborative web app for efficient team task management:
 ## 💡 Fun Facts
 
 - 💬 Languages: Russian, English, Kazakh  
-- 🧩 Hobbies: Разное — always open to new adventures!
+- 🧩 Hobbies: coding, sports — always open to new adventures!
 - 🗣️ “Поистине силен тот, кто не сломлен после тягостей, что ему пришлось пройти.”  
   _True strength is in not being broken by the hardships one has endured._
 
