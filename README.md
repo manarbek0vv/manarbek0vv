@@ -12,7 +12,7 @@
 ## 🛠️ Tech Stack
 
 **Frontend:**  
-TypeScript · React · Vue · Nuxt · Mobx · Axios · TailwindCSS · SCSS/SASS · CSS Modules
+TypeScript · React · Vue · Mobx · Axios · TailwindCSS · SCSS/SASS · CSS Modules
 
 **Backend:**  
 Node.js · Express.js · NestJS · TypeScript · Prisma · PostgreSQL · JWT
